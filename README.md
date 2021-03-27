@@ -37,32 +37,32 @@ https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK
 
 ## Reference Links
 
-Most commonly used algorithms and their complexity: https://www.bigocheatsheet.com/
-Commonly used Algorithms: https://www.geeksforgeeks.org/fundamentals-of-algorithms/
-Commonly used Data structures: https://www.geeksforgeeks.org/data-structures/
+Most commonly used algorithms and their complexity: https://www.bigocheatsheet.com/   
+Commonly used Algorithms: https://www.geeksforgeeks.org/fundamentals-of-algorithms/   
+Commonly used Data structures: https://www.geeksforgeeks.org/data-structures/   
 
 ### Ruby Syntax
 
-Basics: https://www.tutorialspoint.com/ruby/ruby_syntax.htm
-Classes: https://www.tutorialspoint.com/ruby/ruby_classes.htm
-Operators: https://www.tutorialspoint.com/ruby/ruby_operators.htm
-Conditions: https://www.tutorialspoint.com/ruby/ruby_if_else.htm
-Loops: https://www.tutorialspoint.com/ruby/ruby_loops
-Methods: https://www.tutorialspoint.com/ruby/ruby_methods.htm
-Arrays: https://www.tutorialspoint.com/ruby/ruby_arrays.htm
+Basics: https://www.tutorialspoint.com/ruby/ruby_syntax.htm  
+Classes: https://www.tutorialspoint.com/ruby/ruby_classes.htm  
+Operators: https://www.tutorialspoint.com/ruby/ruby_operators.htm  
+Conditions: https://www.tutorialspoint.com/ruby/ruby_if_else.htm  
+Loops: https://www.tutorialspoint.com/ruby/ruby_loops  
+Methods: https://www.tutorialspoint.com/ruby/ruby_methods.htm  
+Arrays: https://www.tutorialspoint.com/ruby/ruby_arrays.htm  
 
 ## Misc & Fun stuff
 
-Video that shows the speed of different sorting algorithms: https://www.youtube.com/watch?v=kPRA0W1kECg&ab_channel=TimoBingmann
-Companies that don't require Algorithms knowledge in their interviews: https://github.com/poteto/hiring-without-whiteboards
-Data structure visualization: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+Video that shows the speed of different sorting algorithms: https://www.youtube.com/watch?v=kPRA0W1kECg&ab_channel=TimoBingmann  
+Companies that don't require Algorithms knowledge in their interviews: https://github.com/poteto/hiring-without-whiteboards  
+Data structure visualization: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html  
 
 ## Frequently Asked questions
 
-Which is better recursion or iteration, in regards to memory usage: https://stackoverflow.com/questions/39948357/recursion-vs-iteration-with-regards-to-memory-usage
+Which is better recursion or iteration, in regards to memory usage: https://stackoverflow.com/questions/39948357/recursion-vs-iteration-with-regards-to-memory-usage  
 
 How does Ruby Garbage collection work: https://stackify.com/how-does-ruby-garbage-collection-work-a-simple-tutorial/
-                                       https://scoutapm.com/blog/ruby-garbage-collection
+                                       https://scoutapm.com/blog/ruby-garbage-collection  
 
-Which sorting Algorithms is the best: https://www.geeksforgeeks.org/analysis-of-different-sorting-techniques/
-                                       https://joshycsm.medium.com/which-sorting-algorithm-is-best-ca83e3cc3ca0
+Which sorting Algorithms is the best: https://www.geeksforgeeks.org/analysis-of-different-sorting-techniques/  
+                                      https://joshycsm.medium.com/which-sorting-algorithm-is-best-ca83e3cc3ca0  

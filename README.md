@@ -8,15 +8,15 @@ Introduction to data structures: https://www.theodinproject.com/paths/full-stack
 
 ### Basics of Big-O notation:
 
-https://www.inoutcode.com/concepts/big-o/
-https://www.youtube.com/watch?v=__vX2sjlpXU&ab_channel=MichaelSambol
-https://www.youtube.com/watch?v=8mBxpDWEKNw&ab_channel=EducationAboutStuff
+https://www.inoutcode.com/concepts/big-o/  
+https://www.youtube.com/watch?v=__vX2sjlpXU&ab_channel=MichaelSambol  
+https://www.youtube.com/watch?v=8mBxpDWEKNw&ab_channel=EducationAboutStuff  
 
 ### Basics of Recursion:
 
-http://ruby.bastardsbook.com/chapters/recursion/
-https://www.natashatherobot.com/recursion-factorials-fibonacci-ruby/
-https://www.rubyguides.com/2015/08/ruby-recursion-and-memoization/
+http://ruby.bastardsbook.com/chapters/recursion/  
+https://www.natashatherobot.com/recursion-factorials-fibonacci-ruby/  
+https://www.rubyguides.com/2015/08/ruby-recursion-and-memoization/  
 
 ### Arrays
 

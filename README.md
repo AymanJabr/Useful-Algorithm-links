@@ -34,12 +34,17 @@ https://www.coursera.org/lecture/data-structures/stacks-UdKzQ
 
 https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK
 
+### Binary Trees
+https://www.coursera.org/lecture/data-structures/trees-95qda  
+
+
 
 ## Reference Links
 
 Most commonly used algorithms and their complexity: https://www.bigocheatsheet.com/   
 Commonly used Algorithms: https://www.geeksforgeeks.org/fundamentals-of-algorithms/   
 Commonly used Data structures: https://www.geeksforgeeks.org/data-structures/   
+OpenDSA Algorithms and Data structures(a lot of topics on Binary Trees): https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/index.html  
 
 ### Ruby Syntax
 

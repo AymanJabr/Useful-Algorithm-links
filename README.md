@@ -40,6 +40,8 @@ https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/BinaryTree.html
 https://inst.eecs.berkeley.edu/~cs61bl/r//cur/trees/array-repr.html?topic=lab20.topic&step=1&course=  
 https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/CompleteTree.html  
 
+## Dynamic Programming
+[Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges(5+ hours video)](https://www.youtube.com/watch?v=oBt53YbR9Kk&list=PLSurF7AG96ezGTQvrLGLGlbP_mEyWia4R&index=13&t=279s)
 
 ## Reference Links
 
@@ -73,3 +75,9 @@ How does Ruby Garbage collection work: https://stackify.com/how-does-ruby-garbag
 
 Which sorting Algorithms is the best: https://www.geeksforgeeks.org/analysis-of-different-sorting-techniques/  
                                       https://joshycsm.medium.com/which-sorting-algorithm-is-best-ca83e3cc3ca0  
+
+
+## Previus Meetings
+### Meeting #3; 29/03/2021:
+ Towers of Hanoi, dynamic programming, grid algorithms, greedy algorithms, menmozaition and tabulation  
+https://www.youtube.com/watch?v=-_4Yio0yaFE&ab_channel=G%C3%BCrb%C3%BCzErtunga

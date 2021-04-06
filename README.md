@@ -81,3 +81,7 @@ Which sorting Algorithms is the best: https://www.geeksforgeeks.org/analysis-of-
 ### Meeting #3; 29/03/2021:
  Towers of Hanoi, dynamic programming, grid algorithms, greedy algorithms, menmozaition and tabulation  
 https://www.youtube.com/watch?v=-_4Yio0yaFE&ab_channel=G%C3%BCrb%C3%BCzErtunga
+
+### Meeting #4; 05/04/2021:
+ Data Graphs
+https://youtu.be/Qv74pfR7saQ

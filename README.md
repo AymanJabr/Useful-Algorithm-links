@@ -49,6 +49,8 @@ Most commonly used algorithms and their complexity: https://www.bigocheatsheet.c
 Commonly used Algorithms: https://www.geeksforgeeks.org/fundamentals-of-algorithms/   
 Commonly used Data structures: https://www.geeksforgeeks.org/data-structures/   
 OpenDSA Algorithms and Data structures(a lot of topics on Binary Trees): https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/index.html  
+Available DOM methods for different languages/frameworks: https://devdocs.io  
+
 
 ### Ruby Syntax
 
@@ -78,6 +80,11 @@ Which sorting Algorithms is the best: https://www.geeksforgeeks.org/analysis-of-
 
 
 ## Previus Meetings
-### Meeting #3; 29/03/2021:
+### Meeting #3 (29/03/2021):
  Towers of Hanoi, dynamic programming, grid algorithms, greedy algorithms, menmozaition and tabulation  
 https://www.youtube.com/watch?v=-_4Yio0yaFE&ab_channel=G%C3%BCrb%C3%BCzErtunga
+
+### Meeting #4 (05/04/2021):  
+  Graphs and Data structures
+https://www.youtube.com/watch?v=09_LlHjoEiY&list=WL&index=10&ab_channel=freeCodeCamp.org  
+https://medium.com/amiralles/mastering-data-structures-in-ruby-queues-350a89fa8f79  

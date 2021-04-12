@@ -51,6 +51,10 @@ Commonly used Data structures: https://www.geeksforgeeks.org/data-structures/
 OpenDSA Algorithms and Data structures(a lot of topics on Binary Trees): https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/index.html  
 Available DOM methods for different languages/frameworks: https://devdocs.io  
 
+## Reference Books
+
+Cracking the Coding Interview 189 Programming Questions and Solutions: https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf  
+
 
 ### Ruby Syntax
 
@@ -67,6 +71,8 @@ Arrays: https://www.tutorialspoint.com/ruby/ruby_arrays.htm
 Video that shows the speed of different sorting algorithms: https://www.youtube.com/watch?v=kPRA0W1kECg&ab_channel=TimoBingmann  
 Companies that don't require Algorithms knowledge in their interviews: https://github.com/poteto/hiring-without-whiteboards  
 Data structure visualization: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html  
+Visualization of Queues and Stacks: https://visualgo.net/en/list  
+Chrome extension created by Nick Haralampopoulus to remove coding challenges you have already completed: https://github.com/macnick/filter-challenges  
 
 ## Frequently Asked questions
 
@@ -79,7 +85,7 @@ Which sorting Algorithms is the best: https://www.geeksforgeeks.org/analysis-of-
                                       https://joshycsm.medium.com/which-sorting-algorithm-is-best-ca83e3cc3ca0  
 
 
-## Previus Meetings
+## Previous Meetings
 ### Meeting #3 (29/03/2021):
  Towers of Hanoi, dynamic programming, grid algorithms, greedy algorithms, menmozaition and tabulation  
 https://www.youtube.com/watch?v=-_4Yio0yaFE&ab_channel=G%C3%BCrb%C3%BCzErtunga
@@ -88,3 +94,6 @@ https://www.youtube.com/watch?v=-_4Yio0yaFE&ab_channel=G%C3%BCrb%C3%BCzErtunga
   Graphs and Data structures
 https://www.youtube.com/watch?v=09_LlHjoEiY&list=WL&index=10&ab_channel=freeCodeCamp.org  
 https://medium.com/amiralles/mastering-data-structures-in-ruby-queues-350a89fa8f79  
+
+### Meeting #5 (12/04/2021):  
+Implementing a Queue using 2 Stacks, Implementing a Stack using 2 Queues, Breadth-first search of a map implementation.

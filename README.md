@@ -96,4 +96,4 @@ https://www.youtube.com/watch?v=09_LlHjoEiY&list=WL&index=10&ab_channel=freeCode
 https://medium.com/amiralles/mastering-data-structures-in-ruby-queues-350a89fa8f79  
 
 ### Meeting #5 (12/04/2021):  
-Implementing a Queue using 2 Stacks, Implementing a Stack using 2 Queues, Breadth-first search of a map implementation.
+Implementing a Queue using 2 Stacks, Implementing a Stack using 2 Queues, Breadth-first search of a map implementation: https://www.youtube.com/watch?v=hgXYxhmo3Hk  

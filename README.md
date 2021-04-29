@@ -98,6 +98,12 @@ https://medium.com/amiralles/mastering-data-structures-in-ruby-queues-350a89fa8f
 ### Meeting #5 (12/04/2021):  
 Implementing a Queue using 2 Stacks, Implementing a Stack using 2 Queues, Breadth-first search of a map implementation: https://www.youtube.com/watch?v=hgXYxhmo3Hk  
 
-### Meeting #6 (20/4/2021):  
+### Meeting #6 (19/4/2021):  
 Detect a Cycle Implementation: https://youtu.be/IoGssiOzSuE  
 Implementation based on this article from Geeks for Geeks: https://www.geeksforgeeks.org/detect-cycle-undirected-graph/  
+
+### Meeting #7 (26/4/2021):  
+#### First part, Guest speaker Ben Gamble: https://youtu.be/EYL5foBY59M  
+Ably Labs website: https://dev.ably.io/  
+Ably Labs Github (All open source projects): https://github.com/ably-labs  
+#### Second part, Linked-Lists: https://youtu.be/-1zilRsyZTo  

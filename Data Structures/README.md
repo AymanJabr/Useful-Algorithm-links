@@ -1,5 +1,4 @@
 ## Data structures
-
 Introduction to data structures:  
  https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/common-data-structures-and-algorithms
 

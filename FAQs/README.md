@@ -1,4 +1,3 @@
-
 ## Frequently Asked questions
 
 Which is better recursion or iteration, in regards to memory usage:   

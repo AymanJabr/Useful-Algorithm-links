@@ -8,6 +8,6 @@ This is a simple collection of useful links, to help new people in the group rea
 -   Everyone is welcome!
 
 
-### (go to Data Structures)[https://github.com/AymanJabr/Useful-Algorithm-links/tree/feature/update_structure/Data%20Structures]
+### [go to Data Structures](https://github.com/AymanJabr/Useful-Algorithm-links/tree/feature/update_structure/Data%20Structures)
 
 

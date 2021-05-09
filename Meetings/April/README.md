@@ -1,7 +1,3 @@
-### Meeting (29/03/2021):
- Towers of Hanoi, dynamic programming, grid algorithms, greedy algorithms, menmozaition and tabulation  
-https://www.youtube.com/watch?v=-_4Yio0yaFE&ab_channel=G%C3%BCrb%C3%BCzErtunga
-
 ### Meeting (05/04/2021):  
   Graphs and Data structures
 https://www.youtube.com/watch?v=09_LlHjoEiY&list=WL&index=10&ab_channel=freeCodeCamp.org  
@@ -18,4 +14,4 @@ Implementation based on this article from Geeks for Geeks: https://www.geeksforg
 #### First part, Guest speaker Ben Gamble: https://youtu.be/EYL5foBY59M  
 Ably Labs website: https://dev.ably.io/  
 Ably Labs Github (All open source projects): https://github.com/ably-labs  
-#### Second part, Linked-Lists: https://youtu.be/-1zilRsyZTo  
+#### Second part, Linked-Lists: https://youtu.be/-1zilRsyZTo

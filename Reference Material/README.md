@@ -4,6 +4,21 @@ https://www.inoutcode.com/concepts/big-o/
 https://www.youtube.com/watch?v=__vX2sjlpXU&ab_channel=MichaelSambol  
 https://www.youtube.com/watch?v=8mBxpDWEKNw&ab_channel=EducationAboutStuff  
 
+
+##### Links with explanations and examples for different O algorithms:
+https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/
+
+https://developerinsider.co/big-o-notation-explained-with-examples/
+
+##### Spatial Hash Grids & Tales from Game Development:
+https://www.youtube.com/watch?v=sx4IIQL0x7c
+Everything on this channel comes highly recommended!
+
+
+##### Quadtree Implementation:
+https://github.com/connor-brooks/ecosim/blob/e615c48fda0c8107f6a79d28736c2643f73d6211/src/quadtree.c#L141
+It is in C99, but the logic should be largely recognizable.
+
 ### Basics of Recursion:
 
 http://ruby.bastardsbook.com/chapters/recursion/  

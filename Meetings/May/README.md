@@ -12,6 +12,10 @@
 #### second part: https://youtu.be/lZRy55MXICw
 
 
+### Meeting (24/5/2021): Solving reverse_integer and best_time_to_buy_and_sell_stocks functions (https://leetcode.com/problems/reverse-integer/     https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ )
+#### Meeting video: https://youtu.be/HtggdMpwxgQ  
+
+
 ### Meeting - 4p UTC (17/5/2021):  
 #### Big O() notation with Ben Gamble: https://youtu.be/OJQCaZ8LTy0 
 #### A practical approach to understanding Big O notation:

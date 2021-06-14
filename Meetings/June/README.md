@@ -3,6 +3,10 @@
 ### Meeting (14/6/2021): Farthest Number nested solution: https://youtu.be/L5eTRc3-eIg
 #### Problem: https://practice.geeksforgeeks.org/contest/interview-series-amazon/problems/#
 
+Niall Lynch (America's time - June 14th 2021 - 4 pm UTC)
+https://youtu.be/uUtt15rcK2k (Part 1)
+https://youtu.be/YO_uOb5NxRY (Part 2)
+https://youtu.be/OHsgsbxpnGw (Part 3)
 
 
 
